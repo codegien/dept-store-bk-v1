@@ -1,0 +1,1 @@
+{"id":1,"name":"Clothes","image":"https://i.imgur.com/QkIa5tT.jpeg","creationAt":"2024-01-30T05:29:08.000Z","updatedAt":"2024-01-30T05:29:08.000Z"}

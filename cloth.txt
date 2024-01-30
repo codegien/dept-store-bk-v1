@@ -1,0 +1,1 @@
+[{"catId":1,"catName":"Clothes"},{"catId":2,"catName":"Electronics"},{"catId":3,"catName":"Furniture"},{"catId":4,"catName":"Shoes"},{"catId":5,"catName":"Miscellaneous"},{"catId":12,"catName":"New Category"},{"catId":13,"catName":"30"},{"catId":14,"catName":"un nuevo nombre"},{"catId":15,"catName":"Nueva Categoria"}]
